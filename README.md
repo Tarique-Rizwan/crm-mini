@@ -4,19 +4,18 @@ Built a mini CRM application to manage companies and their employees using Larav
 # How to install ?
 
 
-Clone the repo : git clone https://github.com/Tarique-Rizwan/crm-mini
-$ cd Mini-CRM
-$ composer install
-$ cp .env.example .env
-$ php artisan key:generate
-Create database on MySQL
-Set database credentials on .env file
-$ php artisan migrate --seed
-$ php artisan storage:link
-$ php artisan serve
-Login with :
+- **Clone the repo : git clone https://github.com/Tarique-Rizwan/crm-mini**
+- **composer install**
+- **cp .env.example .env**
+- **php artisan key:generate**
+- **Create database on MySQL**
+- **Set database credentials on .env file**
+- **php artisan migrate --seed**
+- **php artisan storage:link**
+- **php artisan serve**
+- **Login with :
 email : admin@admin.com
-password : password
+password : password**
 
 # Screenshots
 
